@@ -6,7 +6,7 @@
 This code was made by Juliana Edelvacy and Emerson Danzer - PPGBIOINFO - UFMG
 
 
-usage: python HVE_ab1.py [parameters]
+usage: python this_script.py [parameters]
 parameters:
 -cutonly: only execute the cutting step of .ab1 file
 -probgraph: only generate a graph with probability errors in the .ab1 sequences
