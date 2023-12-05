@@ -1,1 +1,1 @@
-# ab1 auto trimmer
+# .ab1 file auto trimmer
